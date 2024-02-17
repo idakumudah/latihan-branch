@@ -2,4 +2,6 @@
 
 #Ini adalah latihan membuat brach baru di GitHub
 
-ini pasti conflict
+
+ini juga bakal conflict
+
